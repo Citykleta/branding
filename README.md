@@ -1,2 +1,2 @@
-# branding
-Contains branding and design documents 
+# Branding
+Contains branding and design documents (color schemas etc)
